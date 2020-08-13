@@ -1,18 +1,23 @@
 var data = [
     {
-      name : "Gaming Mouse",
+      name : "Aglonema Red Kochin",
       price: 1000000,
       id : 1,
     },
     {
-      name : "Monitor Gaming",
+      name : "Aglonema Red Ruby",
       price: 2500000,
       id : 2,
     },
     {
-      name : "Earphone Gaming",
+      name : "Aglonema Red Anjamani",
       price: 1500000,
       id : 3,
+    },
+    {
+      name : "Aglonema Dut Anjamani",
+      price: 1200000,
+      id : 4,
     },
  ];
 
